@@ -1,0 +1,1 @@
+- When using `textarea` tag and want to preserve the way the text look, need to display the text in `pre` tag instead of `span` or `p` tag. Beside, the CSS `whitespace: pre` to to preserve newlines and spaces within an element

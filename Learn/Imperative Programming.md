@@ -1,0 +1,1 @@
+- State is external of code
