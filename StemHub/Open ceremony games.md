@@ -1,0 +1,7 @@
+- keep 12 nails on top of 1 vertical nail
+- Tower of Hanoi
+- Egg drop games (from tapes, straws, strings, bags, cups)
+- build tall tower with spaghettis that can withstand an earthwake (use box, strings, tapes)
+- build a bridge using toothpicks (https://www.lookwerelearning.com/how-to-build-a-toothpick-bridge/)
+- use a piece of paper to help raise a platform
+- https://www.thriveathomecentral.com/fun-stem-activities-for-middle-school/

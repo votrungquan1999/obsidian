@@ -16,3 +16,6 @@
 ## Devin
 - An AI software Engineer that can solve a problem with its terminal, code editor and browser
 - It can search for information like API docs and use them to code
+## Google Gemini
+### Germini 1.5
+- Enable context-caching, which allows reusing tokens for much cheaper price than having to input them again

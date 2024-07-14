@@ -1,0 +1,2 @@
+- 1 months
+- about 3 months bonus

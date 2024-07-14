@@ -1,0 +1,6 @@
+- Số thường dùng gọi là số thập phân
+- các hệ số từ 2 -> 16
+- cách tính chuyển đổi giữa các hệ số
+- lên bảng chuyển các số đơn giản
+- Số mũ là gì?
+- Sử dụng máy tính để tính số của các hệ nhanh hơn

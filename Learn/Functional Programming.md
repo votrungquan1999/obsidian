@@ -1,1 +1,2 @@
 - there is no state in functional programming
+- Effect is treated as first class citizen in functional programming 
