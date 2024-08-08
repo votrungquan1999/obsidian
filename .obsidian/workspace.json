@@ -134,9 +134,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8751035b1937cf9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech News - Trends.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f3b04960a9144f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech News - Trends.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "734cd9feda9fcc93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tunnels.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -202,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Career Guide.md",
+                "file": "Tunnels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Career Guide.md",
+                "file": "Tunnels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Career Guide.md"
+                "file": "Tunnels.md"
               }
             }
           }
@@ -263,8 +299,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76ed0e3e145e432a",
+  "active": "734cd9feda9fcc93",
   "lastOpenFiles": [
+    "Tech News - Trends.md",
+    "Tunnels.md",
     "Australia Visa.md",
     "Career Guide.md",
     "Pasted image 20240714133556.png",
@@ -273,7 +311,6 @@
     "README.md",
     "Marketting Stemventure.md",
     "Record of redis cache for over 1000 employees scan event (1470 employees).md",
-    "Tech News - Trends.md",
     "Ways to optimized API calls.md",
     "Untitled",
     "Learn/APIs.md",
